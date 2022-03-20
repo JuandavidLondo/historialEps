@@ -1,0 +1,21 @@
+C:\Users\usuario\source\repos\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.exe.config
+C:\Users\usuario\source\repos\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.exe
+C:\Users\usuario\source\repos\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.pdb
+C:\Users\usuario\source\repos\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.exe
+C:\Users\usuario\source\repos\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.pdb
+C:\Users\Migue\Desktop\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.csproj.AssemblyReference.cache
+C:\Users\Migue\Desktop\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.exe
+C:\Users\Migue\Desktop\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.pdb
+C:\Users\Migue\Desktop\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.exe.config
+C:\Users\Migue\Desktop\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.exe
+C:\Users\Migue\Desktop\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.pdb
+C:\Users\usuario\Downloads\Audios USB\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.exe.config
+C:\Users\usuario\Downloads\Audios USB\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.exe
+C:\Users\usuario\Downloads\Audios USB\HistoriaEps\HistoriaEps\bin\Debug\HistoriaEps.pdb
+C:\Users\usuario\Downloads\Audios USB\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Audios USB\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Audios USB\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.exe
+C:\Users\usuario\Downloads\Audios USB\HistoriaEps\HistoriaEps\obj\Debug\HistoriaEps.pdb
